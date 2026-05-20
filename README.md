@@ -24,7 +24,7 @@ https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoC
 **Các style có thể dùng:**
 - `flat`
 - `flat-square`
-- `for-the-badge` ← phổ biến nhất
+- `for-the-badge` ← tương đối phổ biến
 - `plastic`
 - `social`
   
