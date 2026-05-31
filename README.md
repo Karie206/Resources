@@ -2,7 +2,6 @@
 
 Tổng hợp các nguồn hình ảnh, badge, icon dùng cho GitHub README.
 
----
 
 ## 🛡️ Shields.io
 > Tạo badge tùy chỉnh theo ý muốn
@@ -30,7 +29,6 @@ https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoC
   
 <br/>
 
----
 
 ## 🎯 Simple Icons
 > Tra tên logo để dùng trong shields.io
@@ -41,7 +39,6 @@ Tìm tên brand → dùng làm `&logo=TÊN` trong shields.io URL.
 
 <br/>
 
----
 
 ## 🖼️ Skillicons.dev
 > Icon vuông đẹp, hỗ trợ nhiều ngôn ngữ & công cụ
@@ -87,7 +84,6 @@ https://skillicons.dev/icons?i=c,cpp,java,cs,vscode,git,github
 
 <br/>
 
----
 
 ## ⚙️ Techstack Generator
 > Icon tròn lớn đẹp, thường dùng trong bảng
@@ -118,7 +114,6 @@ https://techstack-generator.vercel.app/django-icon.svg
 
 <br/>
 
----
 
 ## 📊 GitHub Stats Cards
 > Thẻ thống kê GitHub cho README
@@ -147,7 +142,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=c
 
 <br/>
 
----
 
 ## ✍️ Readme Typing SVG
 > Chữ gõ tự động động như máy đánh chữ
@@ -161,7 +155,6 @@ https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E
 
 <br/>
 
----
 
 ## 👁️ Profile View Counter
 > Đếm số lượt xem profile
@@ -172,7 +165,6 @@ https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=green
 
 <br/>
 
----
 
 ## 🔗 Tổng hợp tất cả
 
