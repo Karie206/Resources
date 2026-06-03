@@ -4,7 +4,7 @@ Tổng hợp các nguồn hình ảnh, badge, icon dùng cho GitHub README.
 
 
 ## 🛡️ Shields.io
-> Tạo badge tùy chỉnh theo ý muốn
+> Tạo badge tùy chỉnh theo ý muốn 4
 
 **Website:** https://shields.io
 
