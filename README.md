@@ -116,7 +116,7 @@ https://techstack-generator.vercel.app/django-icon.svg
 
 
 ## 📊 GitHub Stats Cards
-> Thẻ thống kê GitHub cho README
+> Card thống kê GitHub cho README
 
 ### GitHub Stats
 ```
