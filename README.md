@@ -130,5 +130,3 @@ https://komarev.com/ghpvc/?username=USERNAME&style=flat&color=green
 | komarev | View counter | https://komarev.com/ghpvc |
 
 ---
-
-*Made with love by Karie206*
