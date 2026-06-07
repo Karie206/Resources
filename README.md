@@ -1,63 +1,46 @@
-# 🎨 Badge & Icon Resources
+# Badge & Icon Resources
 
-Tổng hợp các nguồn hình ảnh, badge, icon dùng cho GitHub README.
+A collection of resources for GitHub README badges and icons.
 
+---
 
-## 🛡️ Shields.io
-> Tạo badge tùy chỉnh theo ý muốn
+## Shields.io
+Custom badges with flexible styling.
 
 **Website:** https://shields.io
 
-**Cú pháp cơ bản:**
+**Syntax:**
 ```
-https://img.shields.io/badge/[TEXT]-[COLOR]?style=for-the-badge&logo=[LOGO]&logoColor=white
-```
-
-**Ví dụ:**
-```
-https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/[TEXT]-[COLOR]?style=flat&logo=[LOGO]&logoColor=white
 ```
 
-**Các style có thể dùng:**
-- `flat`
-- `flat-square`
-- `for-the-badge` 
-- `plastic`
-- `social`
-  
-<br/>
+**Styles:** `flat`, `flat-square`, `for-the-badge`, `plastic`, `social`
 
+---
 
-## 🎯 Simple Icons
-> Tra tên logo để dùng trong shields.io
+## Simple Icons
+Find logo names to use in shields.io.
 
 **Website:** https://simpleicons.org
 
-Tìm tên brand → dùng làm `&logo=TÊN` trong shields.io URL.
+Search for a brand name, then use it as `&logo=NAME` in your shields.io URL.
 
-<br/>
+---
 
-
-## 🖼️ Skillicons.dev
-> Icon vuông đẹp, hỗ trợ nhiều ngôn ngữ & công cụ
+## Skillicons.dev
+Clean square icons for languages and tools.
 
 **Website:** https://skillicons.dev
 
-**Cú pháp:**
+**Syntax:**
 ```
-https://skillicons.dev/icons?i=[icon1],[icon2],[icon3]
-```
-
-**Ví dụ:**
-```
-https://skillicons.dev/icons?i=c,cpp,java,cs,vscode,git,github
+https://skillicons.dev/icons?i=icon1,icon2,icon3
 ```
 
-**Một số icon phổ biến:**
-| Tên | Code |
-|-----|------|
+**Common icons:**
+
+| Name | Code |
+|------|------|
 | C | `c` |
 | C++ | `cpp` |
 | C# | `cs` |
@@ -68,117 +51,84 @@ https://skillicons.dev/icons?i=c,cpp,java,cs,vscode,git,github
 | GitHub | `github` |
 | MySQL | `mysql` |
 | MongoDB | `mongodb` |
-| HTML | `html` |
-| CSS | `css` |
-| JavaScript | `js` |
-| TypeScript | `ts` |
 | React | `react` |
-| Vue | `vue` |
-| NodeJS | `nodejs` |
-| Laravel | `laravel` |
-| PHP | `php` |
-| Figma | `figma` |
 | Docker | `docker` |
 | Linux | `linux` |
 | Postman | `postman` |
 
-<br/>
+---
 
-
-## ⚙️ Techstack Generator
-> Icon tròn lớn đẹp, thường dùng trong bảng
+## Techstack Generator
+Large round icons for tech stacks.
 
 **Website:** https://techstack-generator.vercel.app
 
-**Cú pháp:**
+**Syntax:**
 ```
 https://techstack-generator.vercel.app/[name]-icon.svg
 ```
 
-**Danh sách icon có sẵn:**
-```
-https://techstack-generator.vercel.app/cpp-icon.svg
-https://techstack-generator.vercel.app/csharp-icon.svg
-https://techstack-generator.vercel.app/java-icon.svg
-https://techstack-generator.vercel.app/python-icon.svg
-https://techstack-generator.vercel.app/js-icon.svg
-https://techstack-generator.vercel.app/ts-icon.svg
-https://techstack-generator.vercel.app/react-icon.svg
-https://techstack-generator.vercel.app/mysql-icon.svg
-https://techstack-generator.vercel.app/github-icon.svg
-https://techstack-generator.vercel.app/docker-icon.svg
-https://techstack-generator.vercel.app/aws-icon.svg
-https://techstack-generator.vercel.app/webpack-icon.svg
-https://techstack-generator.vercel.app/django-icon.svg
-```
+**Available icons:** `cpp`, `csharp`, `java`, `python`, `js`, `ts`, `react`, `mysql`, `github`, `docker`, `aws`, `django`
 
-<br/>
+---
 
+## GitHub Stats Cards
 
-## 📊 GitHub Stats Cards
-> Card thống kê GitHub cho README
-
-### GitHub Stats
+**Stats:**
 ```
 https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true
 ```
 
-### Streak Stats
+**Streak:**
 ```
 https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true
 ```
 
-### Activity Graph
-```
-https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true
-```
-
-### Top Languages
+**Top Languages:**
 ```
 https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true
 ```
 
-**Các theme phổ biến:** `tokyonight`, `radical`, `merko`, `gruvbox`, `dracula`, `catppuccin_mocha`
+**Activity Graph:**
+```
+https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true
+```
 
-<br/>
+**Themes:** `tokyonight`, `radical`, `gruvbox`, `dracula`, `catppuccin_mocha`
 
+---
 
-## ✍️ Readme Typing SVG
-> Chữ gõ tự động động như máy đánh chữ
+## Readme Typing SVG
+Animated typewriter text effect.
 
 **Website:** https://readme-typing-svg.demolab.com
 
-**Cú pháp:**
 ```
 https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EF715&width=435&lines=Line+1;Line+2;Line+3
 ```
 
-<br/>
+---
 
-
-## 👁️ Profile View Counter
-> Đếm số lượt xem profile
+## Profile View Counter
 
 ```
-https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=green
+https://komarev.com/ghpvc/?username=USERNAME&style=flat&color=green
 ```
 
-<br/>
+---
 
+## Summary
 
-## 🔗 Tổng hợp tất cả
-
-| Nguồn | Dùng cho | Link |
-|-------|----------|------|
-| shields.io | Badge tùy chỉnh | https://shields.io |
-| simpleicons.org | Tìm tên logo | https://simpleicons.org |
-| skillicons.dev | Icon vuông đẹp | https://skillicons.dev |
-| techstack-generator | Icon tròn lớn | https://techstack-generator.vercel.app |
-| readme-typing-svg | Chữ động | https://readme-typing-svg.demolab.com |
-| github-readme-stats | Stats card | https://github-readme-stats.vercel.app |
+| Resource | Purpose | Link |
+|----------|---------|------|
+| shields.io | Custom badges | https://shields.io |
+| simpleicons.org | Find logo names | https://simpleicons.org |
+| skillicons.dev | Square icons | https://skillicons.dev |
+| techstack-generator | Round icons | https://techstack-generator.vercel.app |
+| readme-typing-svg | Typing animation | https://readme-typing-svg.demolab.com |
+| github-readme-stats | Stats cards | https://github-readme-stats.vercel.app |
 | komarev | View counter | https://komarev.com/ghpvc |
 
-<p align="center">
-  <br/>
-  <i>Made with ❤️ by Karie206</i>
-</p>
+---
+
+*Made with love by Karie206*
